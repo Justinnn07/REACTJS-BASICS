@@ -19,7 +19,6 @@ const App = () => {
 
   const a = JSON.stringify(dataa);
 
-  console.log(a);
 
   return (
     <Router>
